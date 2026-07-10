@@ -1,4 +1,8 @@
 
+<<<<<<< HEAD
+=======
+# csv-transaction-viewer
+>>>>>>> 64084d0 (em)
 > you should localhost it by yourself
 > so project kinda useless yet
 
@@ -8,5 +12,10 @@ h ttp://localhost/BudgetTracker/public/
 in thansaction files you'll find csv tables
 
 **have a nice day**
+<<<<<<< HEAD
 ![screenshot](screenshot.png)
 # csv-transaction-viewer
+=======
+
+![screenshot](screenshot.png)
+>>>>>>> 64084d0 (em)
