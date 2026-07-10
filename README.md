@@ -1,5 +1,5 @@
 
->[!bug] you should localhost it by yourself
+> you should localhost it by yourself
 > so project kinda useless yet
 
 it should be smth like
